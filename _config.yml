@@ -1,0 +1,4 @@
+name: demo
+markdown: kramdown
+highlighter: pygments
+url: /jekyll_demo
